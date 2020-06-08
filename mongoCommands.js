@@ -1,5 +1,5 @@
 // Show all collections in the current DB
-show collections;
+show collections
 
 // Use the `myFirstMDB` collection and store a reference to it in a
 // variable called `coll`
